@@ -7,3 +7,4 @@ created app with payment gateway. learn lots of new libraries and functions whil
 
 
 **working of project : [demo](https://rose-fine-bullfrog.cyclic.app/)**
+## If you want to know how admin login works then contact me. I will send you the login details
